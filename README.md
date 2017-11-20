@@ -1,6 +1,6 @@
-# Demo on how to call an API and read JSON in Java with JAX-RS (Jersey) and Jackson 
+# API and JSON in Java Demo
 
-This is a demo for ICSI 518 software engineering course offered in Fall 2017. 
+This is a demo for ICSI 518 software engineering course offered in Fall 2017 at University at Albany SUNY. 
 
 This is a plain Java object, it uses Maven to manage dependencies. Download and import it into Eclipse to run.
 
